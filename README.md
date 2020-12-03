@@ -1,4 +1,4 @@
-# Pokedex App | Aplicativo simulando uma Pokedex.
+# Pokédex App | Aplicativo simulando uma Pokédex.
 
 
 Projeto desenvolvido na aula de Tecnologias para Mobilidade, na Etec Cidade do Livro!
